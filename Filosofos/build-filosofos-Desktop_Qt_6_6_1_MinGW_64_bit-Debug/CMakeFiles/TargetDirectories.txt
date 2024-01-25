@@ -1,0 +1,9 @@
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/filosofos.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/filosofos_autogen_timestamp_deps.dir
+C:/Users/sombr/Documents/PGL/QT/Filosofos/build-filosofos-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/filosofos_autogen.dir
